@@ -1,0 +1,14 @@
+{
+  "name": "Gohsto Messenger",
+  "short_name": "Gohsto",
+  "description": "Le réseau social nouvelle génération 👻",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A14",
+  "theme_color": "#7B2FBE",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "public/logo.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "public/logo.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
